@@ -1,0 +1,8 @@
+name: David Y. Ross' blog
+url: http://dyross.github.io
+
+permalink: /:year-:month-:day/:title.html
+
+paginate: 5
+
+source: www
